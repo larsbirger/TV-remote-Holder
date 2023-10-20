@@ -12,3 +12,4 @@
 | Inner Radius | 5 | mm |
 | Thickness | 2 | mm |
 | Outer Radius | 7 | mm |
+| Bottom chamfer | 1 | mm |
